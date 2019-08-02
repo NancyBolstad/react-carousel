@@ -1,1 +1,1 @@
-Creating Carousels with React Hooks
+React Carousels created with React Hooks
