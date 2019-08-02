@@ -1,1 +1,1 @@
-React Carousels created with React Hooks
+React carousels created with React hooks
