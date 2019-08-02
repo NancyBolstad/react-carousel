@@ -1,0 +1,22 @@
+.carouselWrapper{
+  position: relative;
+  overflow: hidden;
+  margin: auto;
+  box-sizing: border-box;
+}
+
+.imgWrap {
+  position: 'absolute';
+  top: 0;
+  left: 0;
+}
+.imgWrap:hover {
+  cursor: pointer;
+}
+
+li {
+  list-style-type: none;
+}
+.dn {
+  display: none;
+}
